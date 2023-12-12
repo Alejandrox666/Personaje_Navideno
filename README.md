@@ -89,7 +89,10 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 
 ## Código del proyecto
 https://drive.google.com/drive/folders/1BZWcHmXvKhYjEpQqXudUgEzhceltDo49?usp=sharing
+
 ## Imagenes del código realizado
+![Imagen 1 ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/Codigo_python.png)
+![Imagen 3 ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/Codigo_Arduino.png)
 
 
 ## Video de proyecto terminado
