@@ -16,7 +16,7 @@ Angel con trompeta
 |Focos led|Iluminar al angel|7|$15|
 |Bolsa de algodon|Material para rellenar alas|1|$5|
 |1 hoja de papel dorado|Material para aureola y trompeta|1|$3|
-|Sensor de proximidad|1|$60|
+|Sensor de proximidad|Sensor para detectar la proximidad de las personas|1|$60|
 
 
 
