@@ -89,6 +89,8 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 
 ## Código del proyecto
 https://drive.google.com/drive/folders/1BZWcHmXvKhYjEpQqXudUgEzhceltDo49?usp=sharing
+## Imagenes del código realizado
+
 
 ## Video de proyecto terminado
 https://drive.google.com/file/d/1DVJuaulmAGHang0ZGywJw9jvOo1pBvDz/view?usp=sharing
